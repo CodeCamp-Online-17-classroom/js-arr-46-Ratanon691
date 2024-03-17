@@ -1,7 +1,13 @@
-# js-lab-131
-### Lab131 Array: เรียงข้อมูลใน array2
-จงเรียงข้อมูลใน arr โดยเรียงตามค่า element ยกกำลัง 2 จากน้อยไปหามาก
+# js-lab-132
+### Lab132 Array: เรียงข้อมูลใน array3
+จงเรียงข้อมูล object ใน arr โดยเรียงตามค่า age จากน้อยไปหามาก
 
 ```JavaScript
-const arr = [-3, 2, 0, -7, 4, 6];
+const arr = [
+  { name: 'John', age: 25 },
+  { name: 'Leon', age: 26 },
+  { name: 'Mick', age: 29 },
+  { name: 'Pete', age: 30 },
+  { name: 'Mary', age: 28 }
+];
 ```
